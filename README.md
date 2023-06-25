@@ -46,7 +46,7 @@ Submits a application form.
 
 - **email (str)**: The email of the applicant.
 - **phone_number (str)**: The phone number of the applicant.
-- **form_data (dict)**: The data submitted in the form.#/form/get-applications
+- **form_data (dict)**: The data submitted in the form.
 
 ### /applications/get (POST)
 
